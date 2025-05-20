@@ -1,0 +1,23 @@
+body {
+    background-color: #121212;
+    color: #f0f0f0;
+    font-family: 'Georgia', serif;
+    margin: 0;
+    padding: 2rem;
+  }
+  
+  .lector {
+    max-width: 600px;
+    margin: auto;
+    line-height: 1.8;
+  }
+  
+  button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 20px;
+    cursor: pointer;
+  }
+  
